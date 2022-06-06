@@ -56,7 +56,7 @@ Nadie lo es. Llevo 20 años codificando y sigo pensando que no soy un experto, a
 No lo hagas todo, puedes elegir una o dos cosas que te gusten. Incluso si estás aprendiendo en privado tienes que tomar notas y terminar los proyectos de codificación y los desafíos, ¿por qué no darte un poco de tiempo extra para publicarlos? Creo que vale la pena el 100% de tu tiempo. 
 
 ¡espero haber expuesto mi caso!
-
+¡Espero haber expuesto mi caso!
 ## ¡Sigue así!
 
 Si quieres leer más sobre el aprendizaje en público te recomiendo que leas [este artículo y todas las increíbles fuentes mencionadas al final de ese artículo](https://www.swyx.io/learn-in-public/).
